@@ -191,4 +191,4 @@ srun --cpu-freq=2000000-2000000 likwid-perfctr -C S0:0-17 -g MEM -m ./perf 2000 
 ## 👤 Author
 
 **Spondon Sarker**
-[GitHub Profile](https://github.com/Spondon094)
+
